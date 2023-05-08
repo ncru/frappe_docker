@@ -3,6 +3,8 @@
 
 Everything about [Frappe](https://github.com/frappe/frappe) and [ERPNext](https://github.com/frappe/erpnext) in containers.
 
+# This is a fork from the [frappe_docker](https://github.com/frappe/frappe_docker) project.
+
 # Getting Started
 
 To get started, you need Docker, docker-compose and git setup on your machine. For Docker basics and best practices. Refer Docker [documentation](http://docs.docker.com).
