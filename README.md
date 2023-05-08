@@ -3,6 +3,8 @@
 
 Everything about [Frappe](https://github.com/frappe/frappe) and [ERPNext](https://github.com/frappe/erpnext) in containers.
 
+# This is a fork from the [frappe_docker](https://github.com/frappe/frappe_docker) project.
+
 # Getting Started
 
 To get started, you need Docker, docker-compose and git setup on your machine. For Docker basics and best practices. Refer Docker [documentation](http://docs.docker.com).
@@ -13,7 +15,7 @@ git clone https://github.com/frappe/frappe_docker
 cd frappe_docker
 ```
 
-### Try in Play With Docker
+### Try in Play With Docker!
 
 <a href="https://labs.play-with-docker.com/?stack=https://raw.githubusercontent.com/frappe/frappe_docker/main/pwd.yml">
   <img src="https://raw.githubusercontent.com/play-with-docker/stacks/master/assets/images/button.png" alt="Try in PWD"/>
@@ -47,13 +49,3 @@ Wait for 5 minutes for ERPNext site to be created or check `create-site` contain
 - [Connect to localhost services](docs/connect-to-localhost-services-from-containers-for-local-app-development.md)
 
 ### [Troubleshoot](docs/troubleshoot.md)
-
-# Contributing
-
-If you want to contribute to this repo refer to [CONTRIBUTING.md](CONTRIBUTING.md)
-
-This repository is only for container related stuff. You also might want to contribute to:
-
-- [Frappe framework](https://github.com/frappe/frappe#contributing),
-- [ERPNext](https://github.com/frappe/erpnext#contributing),
-- [Frappe Bench](https://github.com/frappe/bench).
